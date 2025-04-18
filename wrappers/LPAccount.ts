@@ -1,0 +1,1 @@
+export * from '../build/LPAccount/tact_LPAccount'
